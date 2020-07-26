@@ -1,0 +1,342 @@
+
+VirusFighter.pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1_Hurt1
+  rotate: false
+  xy: 279, 313
+  size: 77, 175
+  orig: 77, 175
+  offset: 0, 0
+  index: -1
+1_Hurt2
+  rotate: false
+  xy: 576, 892
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+1_Hurt3
+  rotate: false
+  xy: 432, 819
+  size: 172, 69
+  orig: 172, 69
+  offset: 0, 0
+  index: -1
+1_Idle_Mgun
+  rotate: false
+  xy: 289, 669
+  size: 74, 175
+  orig: 74, 175
+  offset: 0, 0
+  index: -1
+1_Idle_gun
+  rotate: false
+  xy: 190, 490
+  size: 94, 177
+  orig: 94, 177
+  offset: 0, 0
+  index: -1
+1_Jump
+  rotate: false
+  xy: 2, 490
+  size: 104, 174
+  orig: 104, 174
+  offset: 0, 0
+  index: -1
+1_Run1
+  rotate: false
+  xy: 94, 127
+  size: 80, 177
+  orig: 80, 177
+  offset: 0, 0
+  index: -1
+1_Run2
+  rotate: false
+  xy: 108, 490
+  size: 80, 174
+  orig: 80, 174
+  offset: 0, 0
+  index: -1
+1_Run3
+  rotate: false
+  xy: 377, 566
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+1_Run4
+  rotate: false
+  xy: 264, 136
+  size: 93, 175
+  orig: 93, 175
+  offset: 0, 0
+  index: -1
+1_Run5
+  rotate: false
+  xy: 176, 128
+  size: 86, 177
+  orig: 86, 177
+  offset: 0, 0
+  index: -1
+1_Run6
+  rotate: false
+  xy: 540, 391
+  size: 80, 172
+  orig: 80, 172
+  offset: 0, 0
+  index: -1
+2_Hurt1
+  rotate: false
+  xy: 95, 307
+  size: 85, 181
+  orig: 85, 181
+  offset: 0, 0
+  index: -1
+2_Hurt2
+  rotate: false
+  xy: 432, 890
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+2_Hurt3
+  rotate: false
+  xy: 606, 807
+  size: 178, 83
+  orig: 178, 83
+  offset: 0, 0
+  index: -1
+2_Idle_Mgun
+  rotate: false
+  xy: 2, 306
+  size: 91, 182
+  orig: 91, 182
+  offset: 0, 0
+  index: -1
+2_Idle_gun
+  rotate: false
+  xy: 2, 124
+  size: 90, 180
+  orig: 90, 180
+  offset: 0, 0
+  index: -1
+2_Jump
+  rotate: false
+  xy: 217, 846
+  size: 104, 174
+  orig: 104, 174
+  offset: 0, 0
+  index: -1
+2_Run1
+  rotate: false
+  xy: 359, 137
+  size: 93, 174
+  orig: 93, 174
+  offset: 0, 0
+  index: -1
+2_Run2
+  rotate: false
+  xy: 182, 314
+  size: 95, 174
+  orig: 95, 174
+  offset: 0, 0
+  index: -1
+2_Run3
+  rotate: false
+  xy: 2, 666
+  size: 106, 173
+  orig: 106, 173
+  offset: 0, 0
+  index: -1
+2_Run4
+  rotate: false
+  xy: 2, 841
+  size: 111, 179
+  orig: 111, 179
+  offset: 0, 0
+  index: -1
+2_Run5
+  rotate: false
+  xy: 115, 841
+  size: 100, 179
+  orig: 100, 179
+  offset: 0, 0
+  index: -1
+2_Run6
+  rotate: false
+  xy: 358, 313
+  size: 85, 175
+  orig: 85, 175
+  offset: 0, 0
+  index: -1
+3_Hurt1
+  rotate: false
+  xy: 211, 670
+  size: 76, 169
+  orig: 76, 169
+  offset: 0, 0
+  index: -1
+3_Hurt2
+  rotate: false
+  xy: 716, 892
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+3_Hurt3
+  rotate: false
+  xy: 365, 741
+  size: 172, 76
+  orig: 172, 76
+  offset: 0, 0
+  index: -1
+3_Idle_Mgun
+  rotate: false
+  xy: 474, 565
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+3_Idle_gun
+  rotate: false
+  xy: 286, 490
+  size: 89, 177
+  orig: 89, 177
+  offset: 0, 0
+  index: -1
+3_Jump
+  rotate: false
+  xy: 323, 849
+  size: 107, 171
+  orig: 107, 171
+  offset: 0, 0
+  index: -1
+3_Run1
+  rotate: false
+  xy: 454, 58
+  size: 79, 164
+  orig: 79, 164
+  offset: 0, 0
+  index: -1
+3_Run2
+  rotate: false
+  xy: 445, 392
+  size: 93, 171
+  orig: 93, 171
+  offset: 0, 0
+  index: -1
+3_Run3
+  rotate: false
+  xy: 110, 669
+  size: 99, 170
+  orig: 99, 170
+  offset: 0, 0
+  index: -1
+3_Run4
+  rotate: false
+  xy: 853, 852
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+3_Run5
+  rotate: false
+  xy: 536, 220
+  size: 93, 169
+  orig: 93, 169
+  offset: 0, 0
+  index: -1
+3_Run6
+  rotate: false
+  xy: 454, 224
+  size: 80, 166
+  orig: 80, 166
+  offset: 0, 0
+  index: -1
+Edge_left
+  rotate: false
+  xy: 956, 956
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Edge_right
+  rotate: false
+  xy: 786, 826
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Enemy1
+  rotate: false
+  xy: 535, 151
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+Enemy2
+  rotate: false
+  xy: 2, 13
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+Floating_left
+  rotate: false
+  xy: 539, 753
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Floating_right
+  rotate: false
+  xy: 377, 500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+GunBullet
+  rotate: false
+  xy: 535, 60
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+MGunBullet
+  rotate: false
+  xy: 956, 936
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 535, 85
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+explosion-large
+  rotate: false
+  xy: 608, 201
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+explosion-medium
+  rotate: false
+  xy: 786, 811
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+explosion-small
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
